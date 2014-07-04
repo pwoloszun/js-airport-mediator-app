@@ -24,4 +24,4 @@ function mediatorApp(Airport, Airplane, Airstrip) {
     airForceOne.requestPermissionToLandOn(airport);
   }, 3000);
 }
-mediatorApp(Airport, Airplane, Airstrip);
+//mediatorApp(Airport, Airplane, Airstrip);
